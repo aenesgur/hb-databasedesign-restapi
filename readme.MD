@@ -1,5 +1,4 @@
-# HelloBetter App
-HelloBetter online course Rest APIs and Database design
+Online course Rest APIs and Database design
 
 #### Used technologies:
 * Nodejs
